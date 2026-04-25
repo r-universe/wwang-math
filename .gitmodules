@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "npfseir"]
+	path = npfseir
+	url = https://github.com/cran/npfseir
 [submodule "seirMFG"]
 	path = seirMFG
 	url = https://github.com/cran/seirMFG
