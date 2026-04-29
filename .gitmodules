@@ -5,6 +5,9 @@
 [submodule "npfseir"]
 	path = npfseir
 	url = https://github.com/cran/npfseir
+[submodule "seairmobility"]
+	path = seairmobility
+	url = https://github.com/cran/seairmobility
 [submodule "seirMFG"]
 	path = seirMFG
 	url = https://github.com/cran/seirMFG
